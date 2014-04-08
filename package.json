@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "Sync EC2 hostnames to your local hosts file",
   "main": "ec2sync.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "ec2sync": "ec2sync.js"
   },
   "author": "Aviram Sterman",
   "license": "MIT",

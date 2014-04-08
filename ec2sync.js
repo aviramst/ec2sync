@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var AWS = require('aws-sdk');
 var rc = require('rc');
 var fs = require('fs');
