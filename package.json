@@ -1,0 +1,16 @@
+{
+  "name": "ec2sync",
+  "version": "0.0.1",
+  "description": "Sync EC2 hostnames to your local hosts file",
+  "main": "ec2sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aviram Sterman",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.0.0-rc13",
+    "rc": "^0.3.4",
+    "async": "^0.7.0"
+  }
+}
