@@ -6,6 +6,15 @@
   "bin": {
     "ec2sync": "ec2sync.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aviramst/ec2sync"
+  },
+  "keywords": [
+    "ec2",
+    "aws",
+    "hosts"
+  ],
   "author": "Aviram Sterman",
   "license": "MIT",
   "dependencies": {
