@@ -1,5 +1,6 @@
 ec2sync
 =======
+[![Dependencies Status](https://david-dm.org/aviramst/ec2sync.png)](https://david-dm.org/aviramst/ec2sync)
 
 Sync EC2 hostnames to your local hosts file.
 
