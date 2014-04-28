@@ -13,7 +13,7 @@ npm install -g ec2sync
 
 #Usage:
 
-Add the following rows to your hosts file (/etc/hosts):
+Add the following rows to your hosts file:
 ```
 # ec2sync-section-start #
 # ec2sync-section-end #
