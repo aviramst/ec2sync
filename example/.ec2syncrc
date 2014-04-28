@@ -1,5 +1,4 @@
 {
-	"hostsFilePath": "/etc/hosts",
 	"aws": {
 		"accessKeyId": "YourAccessKeyID",
 		"secretAccessKey": "YourSecretAccessKey",
