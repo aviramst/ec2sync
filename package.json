@@ -18,8 +18,8 @@
   "author": "Aviram Sterman",
   "license": "MIT",
   "dependencies": {
-    "async": "^0.8.0",
-    "rc": "^0.3.5",
-    "aws-sdk": "^2.0.0-rc.14"
+    "async": "^0.9.0",
+    "rc": "^0.4.0",
+    "aws-sdk": "^2.0.0-rc.20"
   }
 }
