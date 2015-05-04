@@ -1,6 +1,6 @@
 {
   "name": "ec2sync",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Sync EC2 hostnames to your local hosts file",
   "main": "ec2sync.js",
   "bin": {
